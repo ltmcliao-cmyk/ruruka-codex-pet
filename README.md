@@ -18,12 +18,6 @@ RuRuKa is a custom animated desktop pet for Codex.
 
 ## Install
 
-After RuRuKa is merged into Awesome Codex Pet:
-
-```bash
-npx awesome-codex-pet ruruka--ltmcliao-cmyk
-```
-
 Windows PowerShell:
 
 ```powershell
